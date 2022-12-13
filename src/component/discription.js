@@ -1,6 +1,7 @@
+import "../App.css"
 function Discription(){
     return(
-        <div>
+        <div id="discription">
             <table>
                 <th>Discription</th>
                 <tr>

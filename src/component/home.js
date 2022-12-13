@@ -1,6 +1,7 @@
+import "../App.css"
 function Home(){
     return(
-        <div>
+        <div id="home">
             <table>
                 <th>Home</th>
                 <tr>
